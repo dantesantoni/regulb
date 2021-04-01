@@ -1,0 +1,25 @@
+{
+  "name": "corsica/regulb",
+  "description": "Reguleque Back End",
+  "type": "php",
+  "keywords": ["reguleque", "transparencia"],
+  "homepage": "https://www.corsica.cl",
+  "license": "AGPL-3.0+",
+  "authors": [
+      {
+          "name": "Corsica Ltda",
+          "homepage": "https://www.corsica.cl"
+      }
+  ],
+  "autoload": {
+      "psr-4": {"corsica\\regulb\\": "phpsrc/"}
+
+  },
+  "require": {
+    "monolog/monolog": "2.1.*",
+    "phpmailer/phpmailer": "6.1.*"
+    },
+    "require-dev": {
+     
+    }
+}

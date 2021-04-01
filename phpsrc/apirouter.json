@@ -1,0 +1,12 @@
+{
+  "Salario" : {
+    "clase" :"corsica/regulb/salarios/Salario",
+    "metodos": {
+      "filtrar":["filtro"],
+      "guardar":["salario"],
+      "guardarSet":["set"]
+
+    }
+  }
+}
+

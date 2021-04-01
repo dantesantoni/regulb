@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+/vendor
+/log
+/dist
+/api
+
