@@ -7,17 +7,10 @@
       "username":"mateo",
       "password":"mateo",
       "database":"reguleque",
+      "backup-path":"c:/www/regulb/dbbackup/",
       "loglevel":"debug"
-    },
+    }
 
-    "mail": {
-      "user":"soporte@yogi.cl",
-      "name":"Soporte Yogi.cl",
-      "password":"Dsblok!2021",
-      "smtp":"smtp.dreamhost.com",
-      "imap":"imap.dreamhost.com",
-      "pop":"pop.dreamhost.com"
-    }    
 
   }
 }
